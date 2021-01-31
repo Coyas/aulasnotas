@@ -1,9 +1,6 @@
 #include <stdio.h>
 #include <string.h>
 
-float calcular_a_media_geral(float,float);
-float calcular_Media(float,float);
-
 int main() {
 	int total;
 	puts("##################################\n");
